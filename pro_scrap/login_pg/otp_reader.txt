@@ -1,0 +1,18 @@
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html> <head> <title></title> <style type=3D'text/css'> p.MsoNormal { font-=
+family: 'Calibri', 'sans-serif'; font-size: 11.0pt; margin-bottom: .0001pt;=
+ margin-left: 0in; margin-right: 0in; margin-top: 0in; } </style> </head> <=
+body> <table border=3D'0' align=3D'center' cellpadding=3D'0' cellspacing=3D=
+'0' width=3D'800px' style=3D'border: 1px solid #e9e9e9; font-family: Arial,=
+ Helvetica, sans-serif; font-size: 12px;'> <tr> <td bgcolor=3D'#01325d' sty=
+le=3D'color: #FFFFFF; height: 70px; width: 800px;' align=3D'center'>VFS App=
+pointment System</td> </tr> <tr> <td colspan=3D'2' style=3D'padding: 20px;'=
+><style> th, td { width: 200px; padding: 4px; text-align: left; }</style><p=
+>Dear Applicant,</p><p>Your One-time Password (OTP) is 997382. Please enter=
+ this password to procced with your appointment booking.</p><br /><br /><p>=
+Thank you.</p><p>Regards,</p><p>Visa Application Centre Helpdesk Team</p><b=
+r /><br /><p></p><br/><br/><br /></td> </tr> <tr> <td bgcolor=3D'#01325d' s=
+tyle=3D'text-align:center;color: #FFFFFF; height: 70px; width: 800px;'>Part=
+nering Governments. Providing Solutions.</td> </tr></table> </body></html>
